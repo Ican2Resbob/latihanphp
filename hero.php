@@ -16,10 +16,6 @@ $skill = $level <=4 ? $namaHeroML." blm ada ulti" : $namaHeroML." sudah ada ulti
 echo $skill;
 
 
-
-
-
-
 // switch ($level) {
 //     case 2:
 //         echo $namaHeroML. " blm ada ulti, baru ada skill 1";
